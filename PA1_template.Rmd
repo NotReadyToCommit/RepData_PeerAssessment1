@@ -1,20 +1,17 @@
 
----
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
-    author: "William"
+<header>
+Reproducible Research: Peer Assessment 1
+============
+</header>
 
-    date: "April 12, 2019"
 
----
+
 
 ```{r setup, include=FALSE}
 #a nice preamble
 knitr::opts_chunk$set(echo = TRUE)
 ```
-##Initialization
+## Initialization
 I will begin with all of the packages I intend to use.
 I have commented out installation instructions that are implied, but would be useful for first time users.
 
